@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "express-app-7b95f",
     "public": "public",
     "ignore": [
       "firebase.json",
